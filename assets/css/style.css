@@ -65,18 +65,18 @@ section {
     position: relative;
 }
 .hero-form {
+    border: solid 3px #024e76;
     background-color: #fce138;
     color: #024e76;
     padding: 20px;
     width: 500px;
-    border: solid 3px #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
 }
 .hero-form h3 {
-    margin: 0px;
     font-size: 24px;
+    margin: 0px;
 }
 .hero-form p {
     margin: 5px 0 15px 0;
